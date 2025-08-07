@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node": "^22.18.0"
+  }
+}
